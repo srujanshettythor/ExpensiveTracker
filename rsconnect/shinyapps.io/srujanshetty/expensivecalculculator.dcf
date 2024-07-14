@@ -1,0 +1,10 @@
+name: expensivecalculculator
+title:
+username: srujanshetty
+account: srujanshetty
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12247672
+bundleId: 8799400
+url: https://srujanshetty.shinyapps.io/expensivecalculculator/
+version: 1
